@@ -1,0 +1,78 @@
+1588071564746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LJF\\AppData\\Local\\Temp\\rust_mozprofileivnSG6"
+1588071565584	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588071566345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588071566345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588071566346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588071566346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588071571208	Marionette	INFO	Listening on port 62651
+1588071571624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1588071578476	Marionette	INFO	Stopped listening on port 62651
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1588071942099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LJF\\AppData\\Local\\Temp\\rust_mozprofileyOuVQS"
+1588071942852	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588071943558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588071943558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588071943558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588071943558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588071947633	Marionette	INFO	Listening on port 63034
+1588071947693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pos.baidu.com/sclm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=af3f0bfec5986af992dc2a1c4f5a06ee&di=u3163270&dri=0&dis=0&dai=1&ps=1509x101&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1588074844949&ti=%E4%BD%BF%E7%94%A8selenium%E6%8E%A7%E5%88%B6%E5%B7%B2%E6%89%93%E5%BC%80%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8_Python_python%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0426&dbv=0&drs=1&pcs=1263x585&pss=1263x3849&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1588074844&prot=2&rw=585&ltu=https%3A%2F%2Fblog.csdn.net%2Fsinat_38682860%2Farticle%2Fdetails%2F89480285&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DjjpUav_4EF-soTdqY04gZn7L_97LSJbB9d8Re9xS8kKMBeHPOuElhshsrqJqIKBQ67VIG5Vu-iiNcIaCYeOfpgJ2-e7TqIXtIC0IY-3yo-W%26wd%3D%26eqid%3Dcb6314b1000007d9000000055ea81949&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DjjpUav_4EF-soTdqY04gZn7L_97LSJbB9d8Re9xS8kKMBeHPOuElhshsrqJqIKBQ67VIG5Vu-iiNcIaCYeOfpgJ2-e7TqIXtIC0IY-3yo-W%26wd%3D%26eqid%3Dcb6314b1000007d9000000055ea81949&ecd=1&uc=1280x680&pis=-1x-1&sr=1280x720&tcn=1588074845&qn=5ccae7e862da1705&tt=1588074844916.39.369.369, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/sclm?conwid=300&conhei=250&rdid=3163270&dc=3&exps=110011&psi=af3f0bfec5986af992dc2a1c4f5a06ee&di=u3163270&dri=0&dis=0&dai=1&ps=1509x101&enu=encoding&ant=0&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1588074844949&ti=%E4%BD%BF%E7%94%A8selenium%E6%8E%A7%E5%88%B6%E5%B7%B2%E6%89%93%E5%BC%80%E7%9A%84%E6%B5%8F%E8%A7%88%E5%99%A8_Python_python%E5%AD%A6%E4%B9%A0%E8%80%85%E7%9A%84%E5%8D%9A%E5%AE%A2-CSDN%E5%8D%9A%E5%AE%A2&ari=2&ver=0426&dbv=0&drs=1&pcs=1263x585&pss=1263x3849&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1588074844&prot=2&rw=585&ltu=https%3A%2F%2Fblog.csdn.net%2Fsinat_38682860%2Farticle%2Fdetails%2F89480285&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DjjpUav_4EF-soTdqY04gZn7L_97LSJbB9d8Re9xS8kKMBeHPOuElhshsrqJqIKBQ67VIG5Vu-iiNcIaCYeOfpgJ2-e7TqIXtIC0IY-3yo-W%26wd%3D%26eqid%3Dcb6314b1000007d9000000055ea81949&lcr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DjjpUav_4EF-soTdqY04gZn7L_97LSJbB9d8Re9xS8kKMBeHPOuElhshsrqJqIKBQ67VIG5Vu-iiNcIaCYeOfpgJ2-e7TqIXtIC0IY-3yo-W%26wd%3D%26eqid%3Dcb6314b1000007d9000000055ea81949&ecd=1&uc=1280x680&pis=-1x-1&sr=1280x720&tcn=1588074845&qn=5ccae7e862da1705&tt=1588074844916.39.369.369, line 137: unreachable code after return statement
+JavaScript error: https://csdnimg.cn/public/sandalstrap/1.4/js/sandalstrap.min.js, line 1: TypeError: r.target.parentNode is null
+JavaScript warning: https://csdnimg.cn/public/common/libs/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1588088828548	Marionette	INFO	Stopped listening on port 63034
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+lemetry
+1588073300666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588073300666	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588073304901	Marionette	INFO	Listening on port 64348
+1588073304953	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1588088832163	Marionette	INFO	Stopped listening on port 64348
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\LJF\\AppData\\Local\\Temp\\rust_mozprofile5XETwn"
+1588074611899	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588074612625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588074612625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588074612625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588074612625	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588074616600	Marionette	INFO	Listening on port 49313
+1588074616836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1588088827168	Marionette	INFO	Stopped listening on port 49313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1588075306856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1588075306856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1588075306856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1588075306856	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1588075310821	Marionette	INFO	Listening on port 49780
+1588075311159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1588075554364	Marionette	INFO	Stopped listening on port 49780
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "F:/PycharmProjects/book_learning/automation_py/ch10_µ÷ÊÔ/traceback_·´Ïò¸ú×Ù.py", line 8, in <module>
+    raise Exception('This is the error message.')
+Exception: This is the error message.
